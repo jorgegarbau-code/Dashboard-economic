@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-11-19T03:00:26.797704Z",
+  "generated_at": "2026-11-19T03:12:57.961853Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 126,
+  "new_articles": 122,
   "errors": [],
   "articles": [
+    {
+      "id": "561bd1ef2632f2e0d0983061",
+      "title": "SpaceX’s December Lock-Up Frees Another 17% of Its Shares. Here’s What October’s Unlock Did to the Stock.",
+      "url": "https://www.fool.com/investing/2026/11/18/spacex-s-december-lock-up-frees-another-17-of-its-shares-here-s-what-october-s-unlock-did-to-the-stock/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:55:02Z",
+      "collected_at": "2026-11-19T03:12:57.961853Z"
+    },
+    {
+      "id": "6024d6913a32e2791d1f2dc1",
+      "title": "Asian stocks drop as Anthropic's record IPO fails to reassure",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-anthropics-record-025108034.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:51:08Z",
+      "collected_at": "2026-11-19T03:12:57.961853Z"
+    },
     {
       "id": "41df100269998dda4a3ae4ff",
       "title": "Coatue Builds $1.8 Billion Salesforce Stake, Its Biggest New Bet, as the Stock Sinks 17%",
@@ -1139,6 +1157,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T17:35:47Z",
       "collected_at": "2026-11-19T02:40:31.869637Z"
+    },
+    {
+      "id": "dd769ee628b8304ae4530ba0",
+      "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeldHbV9nVFFxRTFsZE1mV3JwRllFTm55eHhWcjdlUXJYOGxZeXdqWkNoREU1UHZTNEVjSDZkU1FnRi1fNzRYUVpqOUw2eWJlcGlQVkFSYzJmalF4bm1scEFsSEFHZHBkYjdDTUZMRnJJMHhXTTNsV1pFNEVuel81REdLSFpIaTVBSmxfOTNibEswOW8?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T17:31:03Z",
+      "collected_at": "2026-11-19T03:12:57.961853Z"
     },
     {
       "id": "cc0e7a92efa226b77b329fd1",
@@ -2677,33 +2704,6 @@
       "source": "Yahoo Finance",
       "category": "Mercados",
       "published_at": "2026-11-17T16:30:50Z",
-      "collected_at": "2026-11-19T02:40:31.869637Z"
-    },
-    {
-      "id": "16d303164b48faf17f160df0",
-      "title": "Treasuries Rise as Risk-Averse Investors Dump Stocks, Buy Bonds - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlA5Tkk4RnVDcDNoNlNZVURwT1pJeFBYRTdxekxERnVGWTNzVnpPUEZKYXJhM2ZKWUdVOHo1UjlNeHNaVjJyYllSY0FxMXEwLS1ydFh0blJtb2J1X3FxakNJTTh0NEJMbXFMRXhiWUNxTmRMU1FwSk5rSVVmcGhBeU5LY3ZnMmJlWXhYaFRRUTF2V2d2NmpjQzkyRQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T16:26:24Z",
-      "collected_at": "2026-11-19T02:50:15.558481Z"
-    },
-    {
-      "id": "31c95549a7166aa69822f6da",
-      "title": "México reduce su respaldo financiero con el FMI: ¿por qué recortó su acceso a la línea de crédito? - IDC Online",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEhIRWt4Vkd3ekpDcW9RWUZQOXZ3VlBLYmVOZXFQWlpRRkZQVFpWbkpFRUVYbVpNUXhBSTZNRDJRdFpud3JaQ2dFa0ZzQUdzRHZtTU1Od2hKZ0JJZU9oVUZGOUNoalpqYzVIVFV2VDVDQ3M0UjRCVXo1YkN1c3BwV1c4bVpLTFhyOEZBMW1RYkhpVlVGbmRfazNtWUh6ZWJSc3QxWkN0NlM5OXl4YjFsckVRWjhxQjdiSWE2Y3ZWeXZXNHAtUFNDc1JzT2Y2NHpBZlE?oc=5",
-      "source": "IDC Online",
-      "category": "México",
-      "published_at": "2026-11-17T16:09:12Z",
-      "collected_at": "2026-11-19T03:00:26.797704Z"
-    },
-    {
-      "id": "f2f68f0ebc7356e7ccdb2926",
-      "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-      "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T16:03:38Z",
       "collected_at": "2026-11-19T02:40:31.869637Z"
     }
   ]
